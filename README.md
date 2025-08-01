@@ -1,4 +1,4 @@
-# Music-Store-Database-Analysis
+# Music Store Database Analysis
 
 ## Project Overview
 This project involves designing a database for a digital Music Store and running a series of analytical SQL queries to extract meaningful business insights. The dataset represents a fictional music store with information about customers, employees, tracks, invoices, genres, and more.
@@ -6,7 +6,7 @@ This project involves designing a database for a digital Music Store and running
 The goal of the project is to answer real-world business questions using SQL, helping stakeholders make informed decisions such as identifying top customers, understanding buying behavior, and planning promotions.
 
 ## Technologies Used
-SQL (MySQL syntax)
+SQL (MySQL syntax),Triggers, Stored Procedure
 
 Database: Structured relational database using tables and foreign key relationships
 
